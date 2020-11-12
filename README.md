@@ -6,7 +6,7 @@
 
 Communication inactivity time => Command: -i n (n=time)<br>
 Execution time => Command: -m n (n=time)<br>
-Run a task => Command: -e p1|p2...|pn\n<br>
-Listing tasks => Command: -l\n<br>
-Listing history => Command: -r\n<br>
+Run a task => Command: -e p1|p2...|pn<br>
+Listing tasks => Command: -l<br>
+Listing history => Command: -r<br>
 Exiting a task => Command: -t n (n == task id)
